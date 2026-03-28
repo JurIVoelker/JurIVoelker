@@ -7,7 +7,10 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JurIVoelker&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JurIVoelker&theme=transparent&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/JurIVoelker/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JurIVoelker/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/JurIVoelker/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JurIVoelker/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 </div>
